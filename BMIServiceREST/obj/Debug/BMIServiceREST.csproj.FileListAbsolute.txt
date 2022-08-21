@@ -1,0 +1,7 @@
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceREST\bin\BMIServiceREST.dll.config
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceREST\bin\BMIServiceREST.dll
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceREST\bin\BMIServiceREST.pdb
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceREST\obj\Debug\BMIServiceREST.csproj.AssemblyReference.cache
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceREST\obj\Debug\BMIServiceREST.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceREST\obj\Debug\BMIServiceREST.dll
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceREST\obj\Debug\BMIServiceREST.pdb

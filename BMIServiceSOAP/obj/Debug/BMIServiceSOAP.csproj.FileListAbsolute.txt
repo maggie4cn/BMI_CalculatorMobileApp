@@ -1,0 +1,7 @@
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceSOAP\bin\BMIServiceSOAP.dll.config
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceSOAP\bin\BMIServiceSOAP.dll
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceSOAP\bin\BMIServiceSOAP.pdb
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceSOAP\obj\Debug\BMIServiceSOAP.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceSOAP\obj\Debug\BMIServiceSOAP.dll
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceSOAP\obj\Debug\BMIServiceSOAP.pdb
+C:\Users\Maggie\Desktop\Mengqing_XU_Unit5_Project\BMIServiceSOAP\obj\Debug\BMIServiceSOAP.csproj.AssemblyReference.cache
